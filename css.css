@@ -1,0 +1,10 @@
+img {position:absolute; width:100px; height:100px;}
+div {
+    position: absolute;
+    width: 698px;
+    height: 600px;
+}
+#rightSide {
+    left: 698px;
+    border-left: 1px solid black;
+}
